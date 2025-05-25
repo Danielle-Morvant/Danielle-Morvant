@@ -1,12 +1,12 @@
-# Hello, My Name Is Danielle👋
+# Hey Y'all
+
+
+## My name is Danielle Morvant, I am always learning and trying new things, mostly it's with my plants, computer, or new recipes. I am always open to take advice and help if and when I can. 
+I like to be creative so I crochet, sew, and draw when I can as well. Of course I play Call of Dutyand other games on Steam. I love Tetris and other such games.
 
 
 
-- 🔭 I’m currently working on learning coding to start a new chapter of my life that fits with my new bundle of joy
-- 🌱 I’m currently learning coding, container gardening,new parenting, and new recipe
-- 📫 How to reach me: daniellemorvant1@gmail.com
-- ⚡ Other Interests: Drawing & Crocheting
-
+- 📫 Contact Info: daniellemorvant1@gmail.com
 
 |fav yarns|fav plants|fav places I've been|
 |---------|----------|--------------------|
