@@ -1,6 +1,10 @@
+
+
 <img width="1871" height="507" alt="github-header-banner" src="https://github.com/user-attachments/assets/2ec130fa-c15f-47e7-abf2-b87cb094a9bc" />
 
-# Hey Y'all
+<img text="center" width="751" height="168" alt="hey yall" src="https://github.com/user-attachments/assets/218171af-8630-486c-bab7-bdf99252aad1" />
+ 
+
 
 ## I am a stay at home mom with only one beautiful little blessing...I'm still new to coding and programming, which has been a challenge with being a 24/7 mom. I also have many plants I adore and do some gardening when I can manage to spare a few moments. I love being creative and express myself through my crochet, drawing, coding, and sewing...all things that take a backseat to my biggest tiny blessing. I've cooked most of her baby food purees and she loves watching me cook:).
 
@@ -33,6 +37,9 @@
 |lionbrand|aloe vera |Salem, MASS         |
 |redheart |ferns     |Old Orchard, ME     |
 |caron    |succulents|Cypremont Point, LA |
+
+
+
 
 ![pacman](https://github.com/user-attachments/assets/7b7b9f4d-4393-4062-9b55-b714ea5f4a6b)
 <svg xmlns="http://www.w3.org/2000/svg" width="1166" height="184">
