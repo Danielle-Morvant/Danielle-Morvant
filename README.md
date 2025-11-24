@@ -2,11 +2,13 @@
 
 <img width="1871" height="507" alt="github-header-banner" src="https://github.com/user-attachments/assets/2ec130fa-c15f-47e7-abf2-b87cb094a9bc" />
 
-<img text="center" width="751" height="168" alt="hey yall" src="https://github.com/user-attachments/assets/218171af-8630-486c-bab7-bdf99252aad1" />
- 
 
 
-## I am a stay at home mom with only one beautiful little blessing...I'm still new to coding and programming, which has been a challenge with being a 24/7 mom. I also have many plants I adore and do some gardening when I can manage to spare a few moments. I love being creative and express myself through my crochet, drawing, coding, and sewing...all things that take a backseat to my biggest tiny blessing. I've cooked most of her baby food purees and she loves watching me cook:).
+# I am a stay at home mom with only one beautiful little blessing...I'm still new to coding and programming, which has been a challenge with being a 24/7 mom. I also have many plants I adore and do some gardening when I can manage to spare a few moments. I love being creative and express myself through my crochet, drawing, coding, and sewing...all things that take a backseat to my biggest tiny blessing. I've cooked most of her baby food purees and she loves watching me cook:).
+
+<p align = "center">
+<img width="213" height="371" alt="mom and daughter" src="https://github.com/user-attachments/assets/e38dce80-594c-4b51-993f-e0bc66354a2b" />
+</p>
 
 ## I'm curently still learning with assistance from....
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
