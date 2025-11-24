@@ -15,6 +15,9 @@
 ![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ...and more!
 
+<img width="2000" height="2000" alt="octocat-1764015838285" src="https://github.com/user-attachments/assets/eedd6750-a300-4e35-8969-bad9ce4858f4" />
+
+
 ## Other hobbies
 
 ![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
