@@ -1,6 +1,6 @@
 # Hey Y'all
 
-## My name is Danielle Morvant, I am currently learning software development and love styling with css. I am open to collaborating on ideas and always welcoming advice that might further my knowledge. One should never stop learning...
+## I am a stay at home mom with only one beautiful little blessing...I'm still new to coding and programming, which has been a challenge with being a 24/7 mom. I also have many plants I adore and do some gardening when I can manage to spare a few moments. I love being creative and express myself through my crochet, drawing, coding, and sewing...all things that take a backseat to my biggest tiny blessing. I've cooked most of her baby food purees and she loves watching me cook:).
 
 ## I'm curently still learning with assistance from....
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
