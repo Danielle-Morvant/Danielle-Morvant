@@ -19,6 +19,8 @@
 ![image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![W3 Schools](https://img.shields.io/badge/W3%20Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white) 
+
 ...and more!
 
 <img width="2000" height="2000" alt="octocat-1764015838285" src="https://github.com/user-attachments/assets/eedd6750-a300-4e35-8969-bad9ce4858f4" />
